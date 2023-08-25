@@ -1,7 +1,7 @@
 {
   "name": "01tut",
   "version": "0.1.0",
-  "homepage": "https://github.com/iammuthupandi/react_deploy_gh",
+  "homepage": "https://iammuthupandi.github.io/react_deploy_gh",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",
